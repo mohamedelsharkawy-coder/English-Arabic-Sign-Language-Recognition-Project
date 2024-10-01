@@ -7,6 +7,12 @@ Thank you for visiting my repository! I hope you find this project helpful and i
 ## 📖 Overview
 It is a Sign Language Recognition mobile app that designed to facilitate communication between deaf-mute individuals and those who can hear. The app provides features for recognizing both Arabic and English sign languages, making it easier for users to communicate through video and voice.
 
+## 🚀 Features
+- **Dual Language Support:** Provides recognition for approximately 90 words in both Arabic and English sign languages. 🌐
+- **Video-to-Text Conversion:** Allows deaf-mute users to record a video of their sign language, which is then converted to its equivalent text. 🎥➡️📜
+- **Voice-to-Video Conversion:** Enables hearing users to record their voice, which is converted to text using an API, and subsequently turned into a video of corresponding sign language. 🎤➡️📜➡️🎞️
+- **User-Friendly Interface:** Offers an intuitive mobile interface that enhances the user experience. 📱✨
+
 ## 🛠️ Technologies Used
 This project utilizes a variety of powerful libraries and frameworks to implement the sign language recognition functionality:
 
@@ -34,12 +40,6 @@ Check out the demo GIF to see the Sign Language Recognition mobile app in action
 ![Demo Video](media/video.gif)
 
 For a better viewing experience, you can click this link: [Watch the Demo MP4](https://drive.google.com/file/d/1dpS6O1P8uFm-WSuM2QNBC06YX3xBNLui/view?usp=sharing)
-
-## 🚀 Features
-- **Dual Language Support:** Provides recognition for approximately 90 words in both Arabic and English sign languages. 🌐
-- **Video-to-Text Conversion:** Allows deaf-mute users to record a video of their sign language, which is then converted to its equivalent text. 🎥➡️📜
-- **Voice-to-Video Conversion:** Enables hearing users to record their voice, which is converted to text using an API, and subsequently turned into a video of corresponding sign language. 🎤➡️📜➡️🎞️
-- **User-Friendly Interface:** Offers an intuitive mobile interface that enhances the user experience. 📱✨
 
 ## 🤝 Collaboration
 This project was developed in collaboration with Abdelrahman, where I was responsible for the AI development, and he focused on mobile app development.
