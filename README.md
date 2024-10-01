@@ -27,12 +27,7 @@ This project utilizes a variety of powerful libraries and frameworks to implemen
 ## 🎥 Demo
 Check out the demo video to see the Sign Language Recognition mobile app in action! This video showcases the app's features, including how it converts sign language to text and vice versa.
 
-[![Demo Video](media/video.mp4)](video.mp4)
-
-*Click the image above or the link below to watch the demo:*
-
-[Watch the Demo Video](video.mp4)
-
+![Demo Video](media/video.mp4)
 
 ## 📖 Overview
 The Sign Language Recognition mobile app is designed to facilitate communication between deaf-mute individuals and those who can hear. The app provides features for recognizing both Arabic and English sign languages, making it easier for users to communicate through video and voice.
