@@ -3,6 +3,28 @@
 ## 🌟 Welcome!
 Welcome to the Sign Language Recognition Mobile App repository! This project aims to bridge the communication gap between deaf-mute individuals and those who can hear. We are excited to share our work with you, and we hope this app will make a positive impact in the lives of many. Your feedback and contributions are always welcome! 🙌
 
+## 🛠️ Technologies Used
+This project utilizes a variety of powerful libraries and frameworks to implement the sign language recognition functionality:
+
+- **Scikit-learn:** A robust machine learning library in Python that provides simple and efficient tools for data mining and data analysis. It was used for model training and evaluation. 📊
+  
+- **NumPy:** A fundamental package for scientific computing in Python, enabling efficient numerical operations on large, multi-dimensional arrays and matrices. It was essential for data manipulation. 🔢
+
+- **OpenCV:** An open-source computer vision and machine learning software library that provides tools for image and video processing. It was used for dataset collection and video analysis. 🎥
+
+- **MediaPipe:** A cross-platform framework for building multimodal applied machine learning pipelines. It was utilized for hand detection and landmark extraction in sign language recognition. ✋
+
+- **Pickle:** A Python module used for serializing and deserializing Python objects. It was used to save and load the trained models and extracted data efficiently. 📦
+
+- **Matplotlib:** A plotting library for the Python programming language and its numerical mathematics extension NumPy. It was used for visualizing data and results during development. 📈
+
+- **Flask:** A lightweight WSGI web application framework in Python that is easy to use for building web applications. It was employed to create the REST API for model deployment. 🌐
+
+- **Google Colab:** A cloud-based Jupyter notebook environment that allows for the execution of Python code in the browser. It was used for developing and testing the AI models collaboratively. ☁️
+
+- **Jupyter Lab:** An interactive development environment for notebooks, code, and data. It provided a versatile interface for data exploration and model development. 📓
+
+
 ## 📖 Overview
 The Sign Language Recognition mobile app is designed to facilitate communication between deaf-mute individuals and those who can hear. The app provides features for recognizing both Arabic and English sign languages, making it easier for users to communicate through video and voice.
 
