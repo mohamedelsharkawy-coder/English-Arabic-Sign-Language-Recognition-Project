@@ -25,12 +25,10 @@ This project utilizes a variety of powerful libraries and frameworks to implemen
 - **Jupyter Lab:** An interactive development environment for notebooks, code, and data. It provided a versatile interface for data exploration and model development. 📓
 
 ## 🎥 Demo
-Check out the demo video to see the Sign Language Recognition mobile app in action! This video showcases the app's features, including how it converts sign language to text and vice versa.
+Check out the demo GIF to see the Sign Language Recognition mobile app in action! This GIF showcases the app's features, including how it converts sign language to text and vice versa.
 
-<video width="800" height="450" controls>
-  <source src="media/video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<img src="media/video.gif" alt="Demo GIF" width="800" height="450">
+
 
 
 
