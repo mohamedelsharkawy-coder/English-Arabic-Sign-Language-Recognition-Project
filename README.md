@@ -4,6 +4,8 @@ Hello👋, I'm Mohamed Elsharkawy, a Data Science and AI enthusiast 🤖❤️. 
 
 Thank you for visiting my repository! I hope you find this project helpful and informative. If you have any questions or feedback, feel free to reach out! 💬
 
+## 📖 Overview
+It is a Sign Language Recognition mobile app that designed to facilitate communication between deaf-mute individuals and those who can hear. The app provides features for recognizing both Arabic and English sign languages, making it easier for users to communicate through video and voice.
 
 ## 🛠️ Technologies Used
 This project utilizes a variety of powerful libraries and frameworks to implement the sign language recognition functionality:
@@ -25,9 +27,6 @@ This project utilizes a variety of powerful libraries and frameworks to implemen
 - **Google Colab:** A cloud-based Jupyter notebook environment that allows for the execution of Python code in the browser. It was used for developing and testing the AI models collaboratively. ☁️
 
 - **Jupyter Lab:** An interactive development environment for notebooks, code, and data. It provided a versatile interface for data exploration and model development. 📓
-
-## 📖 Overview
-It is a Sign Language Recognition mobile app that designed to facilitate communication between deaf-mute individuals and those who can hear. The app provides features for recognizing both Arabic and English sign languages, making it easier for users to communicate through video and voice.
 
 ## 🎥 Demo
 Check out the demo GIF to see the Sign Language Recognition mobile app in action! This GIF showcases the app's features, including how it converts sign language to text and vice versa.
