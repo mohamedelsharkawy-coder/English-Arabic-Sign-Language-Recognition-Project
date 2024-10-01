@@ -1,4 +1,4 @@
-# 🤟 English and Arabic Sign Language Recognition
+# 🤟 English and Arabic Sign Language Recognition Project
 
 ## Welcome to my project 🎉
 
