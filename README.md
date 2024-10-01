@@ -65,3 +65,8 @@ The AI development was divided into two sections: **English Sign Language** and 
    ```bash
    git clone https://github.com/yourusername/yourrepository.git
    cd yourrepository
+
+2. Install Packages:
+   ```bash
+   pip install -r requirements.txt
+
