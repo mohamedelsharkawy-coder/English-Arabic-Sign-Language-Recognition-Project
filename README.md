@@ -42,7 +42,7 @@ Check out the demo GIF to see the Sign Language Recognition mobile app in action
 For a better viewing experience, you can click this link: [Watch the Demo MP4](https://drive.google.com/file/d/1dpS6O1P8uFm-WSuM2QNBC06YX3xBNLui/view?usp=sharing)
 
 ## 🤝 Collaboration
-This project was developed in collaboration with Abdelrahman, where I was responsible for the AI development, and he focused on mobile app development.
+This project was developed in collaboration with my friend [Abdelrahman](https://github.com/Abdokarawia), where I was responsible for the AI development, and he focused on mobile app development.
 
 ## 🧠 AI Development
 The AI development was divided into two sections: **English Sign Language** and **Arabic Sign Language**. Each section follows a similar workflow:
