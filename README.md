@@ -1,7 +1,5 @@
 # 🤟 English and Arabic Sign Language Recognition Project
 
-## Welcome to my project 🎉
-
 Hello👋, I'm Mohamed Elsharkawy, a Data Science and AI enthusiast 🤖❤️. I recently completed an English and Arabic Sign Language Recognition project 🧑‍💻✨ as a scaling up for my previous [real time American sign language recognition project](https://github.com/mohamedelsharkawy-coder/Real-Time-American-Sign-Language-Recognition), furthering my skills in computer vision 🌟. This project was a big step in my learning journey into AI 📚, and I'm always seeking improvement through self-learning and creating projects 🔧⚒️.
 
 Thank you for visiting my repository! I hope you find this project helpful and informative. If you have any questions or feedback, feel free to reach out! 💬
