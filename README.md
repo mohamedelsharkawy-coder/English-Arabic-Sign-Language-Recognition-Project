@@ -27,7 +27,11 @@ This project utilizes a variety of powerful libraries and frameworks to implemen
 ## 🎥 Demo
 Check out the demo video to see the Sign Language Recognition mobile app in action! This video showcases the app's features, including how it converts sign language to text and vice versa.
 
-![Demo Video](media/video.gif)
+<video width="800" height="450" controls>
+  <source src="media/video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 
 ## 📖 Overview
