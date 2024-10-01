@@ -63,8 +63,8 @@ The AI development was divided into two sections: **English Sign Language** and 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/yourrepository.git
-   cd yourrepository
+   git clone https://github.com/mohamedelsharkawy-coder/English-and-Arabic-Sign-Language-Recognition-Project
+   cd English-and-Arabic-Sign-Language-Recognition-Project
 
 2. Install Packages:
    ```bash
