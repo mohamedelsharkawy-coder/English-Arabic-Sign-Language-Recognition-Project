@@ -26,6 +26,7 @@ This project utilizes a variety of powerful libraries and frameworks to implemen
 
 ## 🎥 Demo
 Check out the demo GIF to see the Sign Language Recognition mobile app in action! This GIF showcases the app's features, including how it converts sign language to text and vice versa.
+
 ![Demo Video](media/video.gif)
 
 For a better viewing experience, you can click this link to watch the demo: [Watch the Demo GIF](https://drive.google.com/file/d/1dpS6O1P8uFm-WSuM2QNBC06YX3xBNLui/view?usp=sharing)
