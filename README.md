@@ -2,7 +2,7 @@
 
 Hello👋, I'm Mohamed Elsharkawy, a Data Science and AI enthusiast 🤖❤️. I recently completed an English and Arabic Sign Language Recognition project 🧑‍💻✨ as a scaling up for my previous [Real-Time-American-Sign-Language-Recognition](https://github.com/mohamedelsharkawy-coder/Real-Time-American-Sign-Language-Recognition), furthering my skills in computer vision 🌟. This project was a big step in my learning journey into AI 📚, and I'm always seeking improvement through self-learning and creating projects 🔧⚒️.
 
-Thank you for visiting my repository! I hope you find this project helpful and informative.
+🙏 Thank you for visiting my repository! I hope you find this project helpful and informative 💡📘.
 ## 📖 Overview
 It is a Sign Language Recognition mobile app that designed to facilitate communication between deaf-mute individuals and those who can hear. The app provides features for recognizing both Arabic and English sign languages, making it easier for users to communicate through video and voice.
 
