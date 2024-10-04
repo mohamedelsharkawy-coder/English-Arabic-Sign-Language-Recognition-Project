@@ -55,13 +55,14 @@ The Arabic sign language components are documented in the file `arabic_project.i
 ### 🔄 Video-to-Text Process
 
 1. **Dataset Collection:**
-   - Collected approximately 360,000 frames (2000 frames for each of the 90 classes) using OpenCV. 📊
+   - Collected approximately 360,000 frames using OpenCV, with 2,000 frames per class for 90 classes in both English and Arabic sign languages (2 languages × 90 classes × 2,000 frames = 360,000). 📊
 
 2. **Data Cleaning:**
-   - Cleaned frames using MediaPipe to remove any blurred images and ensure hands were detected. 🧹
+   - Cleaned frames using MediaPipe to ensure hands were detected. 🧹
 
 3. **Feature Extraction:**
    - Extracted hand landmarks in each frame using MediaPipe and saved them in a pickle file (`english_data.pickle` for the English section and `arabic_data.pickle` for the Arabic section). 📦
+   - [Access the pickled data from this link](https://drive.google.com/drive/folders/1KavCk5ktwkwO3dUtO03pRv-4dJTWb6ly?usp=sharing)
 
 4. **Data Splitting:**
    - Split the dataset into training (80%) and testing (20%) sets using Scikit-learn. 🔍
