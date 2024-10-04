@@ -46,10 +46,10 @@ This project was developed in collaboration with my friend [Abdelrahman](https:/
 ## 🧠 AI Development
 The AI development was divided into two sections: **English Sign Language** and **Arabic Sign Language**. Each section follows a similar workflow:
 
-🌍 **English Section**  
+### 🌍 English Section  
 The English sign language components are documented in the file `english_project.ipynb`.
 
-🕌 **Arabic Section**  
+### 🕌 Arabic Section
 The Arabic sign language components are documented in the file `arabic_project.ipynb`.
 
 ### 🛠️ Workflow Steps
