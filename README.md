@@ -62,7 +62,7 @@ The Arabic sign language components are documented in the file `arabic_project.i
 
 3. **Feature Extraction:**
    - Extracted hand landmarks in each frame using MediaPipe and saved them in a pickle file (`english_data.pickle` for the English section and `arabic_data.pickle` for the Arabic section). 📦
-   - [Access the pickled data from this link](https://drive.google.com/drive/folders/1KavCk5ktwkwO3dUtO03pRv-4dJTWb6ly?usp=sharing)
+[Access the pickled data from this link](https://drive.google.com/drive/folders/1KavCk5ktwkwO3dUtO03pRv-4dJTWb6ly?usp=sharing)
 
 4. **Data Splitting:**
    - Split the dataset into training (80%) and testing (20%) sets using Scikit-learn. 🔍
