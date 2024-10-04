@@ -52,7 +52,7 @@ The English sign language components are documented in the file `english_project
 ### 🕌 Arabic Section
 The Arabic sign language components are documented in the file `arabic_project.ipynb`.
 
-### 🛠️ Workflow Steps
+### 🔄 Video-to-Text Process
 
 1. **Dataset Collection:**
    - Collected approximately 360,000 frames (2000 frames for each of the 90 classes) using OpenCV. 📊
