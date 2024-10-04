@@ -69,7 +69,7 @@ The Arabic sign language components are documented in the file `arabic_project.i
 
 5. **Model Building and Training:**
    - Trained a Random Forest Classifier on the training data and saved the model in a pickle file (`english_model.pickle` for the English section and `arabic_model.pickle` for the Arabic section). 📈
-[Access the pickled data from this link](https://drive.google.com/drive/folders/1kVKa9UZAuisZ8y44m59GAkmCdqI3UmFs?usp=sharing)
+[Access the pickled models from this link](https://drive.google.com/drive/folders/1kVKa9UZAuisZ8y44m59GAkmCdqI3UmFs?usp=sharing)
 
 6. **Model Evaluation:**
    - Evaluated the model on the test data, achieving an accuracy of 99.8%! 🎉
