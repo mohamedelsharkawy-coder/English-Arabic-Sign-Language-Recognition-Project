@@ -49,7 +49,10 @@ The Arabic sign language components are documented in the file `arabic_project.i
 ### 🔄 Video-to-Text Process
 
 1. **Dataset Collection:**
-   - Collected approximately 360,000 frames using OpenCV, with 2,000 frames per class for 90 classes in both English and Arabic sign languages (2 languages × 90 classes × 2,000 frames = 360,000). 📊
+   - 🎥 Personally collected a custom dataset using my webcam via OpenCV, capturing a total of 360,000 frames. This includes 2,000 frames per class for 90 classes in both English and Arabic sign languages (2 languages × 90 classes × 2,000 frames = 360,000). 📊
+
+   👉 You can check the used sign languages here: [English Sign Language](https://drive.google.com/drive/folders/1IBbyj8CzZjeDakChW7XoDqIErlL4ycQX?usp=sharing) | [Arabic Sign Language]([link_to_arabic_sign_language](https://drive.google.com/drive/folders/1qEWWjAK1TAc4zRbwk7aMqvyu5PwZqOIr?usp=sharing)).
+
 
 2. **Data Cleaning:**
    - Cleaned frames using MediaPipe to ensure hands were detected. 🧹
@@ -92,7 +95,7 @@ The Arabic sign language components are documented in the file `arabic_project.i
 4. **API Deployment:**
    - This process is deployed as a REST API using Flask, tested via Postman, and made it public using ngrok for mobile app access. 🚀
 
-   ![Text To Video Demo]()
+   ![Text To Video Demo](media/text_to_video.gif)
 
 ## 🛠️ Installation
 1. Clone the repository:
