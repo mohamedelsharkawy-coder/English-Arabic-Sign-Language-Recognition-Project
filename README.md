@@ -36,7 +36,7 @@ This project utilizes a variety of powerful libraries and frameworks to implemen
 ## 🎥 Demo
 Check out the demo GIF to see the Sign Language Recognition mobile app in action! This GIF showcases the app's features, including how it converts sign language to text and vice versa.
 
-![Demo Video](media/video.gif)
+![Demo Video](media/mobile_app.gif)
 
 For a better viewing experience, you can click this link: [Watch the Demo MP4](https://drive.google.com/file/d/1dpS6O1P8uFm-WSuM2QNBC06YX3xBNLui/view?usp=sharing)
 
@@ -79,9 +79,9 @@ The Arabic sign language components are documented in the file `arabic_project.i
 
 8. **Test the model in real-time:**  
    I tested my model in real-time within the notebook to evaluate its latency and accuracy.
-   ![Real-time Model Testing](path_to_your_gif.gif)
+   ![Real-time Model Testing](real_time_test.gif)
 
-10. **Model Deployment:**
+9. **Model Deployment:**
    - Deployed the model as a REST API using Flask, making it accessible via Ngrok for the mobile app. 🌐
 
 ### 🔄 Text-to-Video Process
