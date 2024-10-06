@@ -24,7 +24,7 @@ It is a Sign Language Recognition mobile app that designed to facilitate communi
 - **🔗 ngrok**: A tool to expose the Flask app to the internet by creating secure tunnels, allowing mobile apps to access the API.
 - **💻 Google Colab**: A cloud-based platform used to write and run Jupyter notebooks for model development.
 - **📒 Jupyter Lab**: An interactive development environment for running Python code, managing datasets, and conducting experiments.
-- **🧪 Postman**: A tool for testing APIs, used to verify the functionality of the deployed REST APIs before integrating them into the mobile app.
+- **🧪 Postman**: A tool for testing APIs, used to verify the functionality of the deployed REST APIs.
 
 
 ## 🎥 Demo
