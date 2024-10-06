@@ -76,20 +76,20 @@ The Arabic sign language components are documented in the file `arabic_project.i
    ![Real-time Model Testing](media/real_time_test.gif)
 
 9. **Model Deployment:**
-   - Deployed the model as a REST API using Flask, making it accessible via Ngrok for the mobile app. 🌐
+   - Deployed the model as a REST API with Flask, tested via Postman, and made it public using ngrok for mobile app access. 🚀📲
 
 ### 🔄 Text-to-Video Process
 1. **Sign Language Video Storage:**
    - Stored videos for each letter and word used in the project. 💾
 
-2. **Voice-to-Text Conversion:**
+2. **Text Splitting**
    - After converting voice input to text, the text is split into individual words. 🔤
 
 3. **Video Concatenation:**
    - For each word, corresponding videos are concatenated. If a video for a specific word isn't found, the word is split into its letters, and videos for each letter are used instead. 🔗
 
 4. **API Deployment:**
-   - This process is deployed as a REST API using Flask, also accessible via Ngrok. 🚀
+   - This process is deployed as a REST API using Flask, tested via Postman, and made it public using ngrok for mobile app access. 🚀
 
 ## 🛠️ Installation
 1. Clone the repository:
