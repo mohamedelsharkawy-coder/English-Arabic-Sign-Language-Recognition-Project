@@ -73,6 +73,7 @@ The Arabic sign language components are documented in the file `arabic_project.i
 
 8. **Test the model in real-time:**  
    - I tested my model in real-time within the notebook to evaluate its latency and accuracy.
+
    ![Real-time Model Testing](media/real_time_test.gif)
 
 9. **Model Deployment:**
@@ -90,6 +91,8 @@ The Arabic sign language components are documented in the file `arabic_project.i
 
 4. **API Deployment:**
    - This process is deployed as a REST API using Flask, tested via Postman, and made it public using ngrok for mobile app access. 🚀
+
+   ![Text_to_Video]()
 
 ## 🛠️ Installation
 1. Clone the repository:
