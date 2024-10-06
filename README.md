@@ -13,25 +13,19 @@ It is a Sign Language Recognition mobile app that designed to facilitate communi
 - **User-Friendly Interface:** Offers an intuitive mobile interface that enhances the user experience. 📱✨
 
 ## 🛠️ Technologies Used
-This project utilizes a variety of powerful libraries and frameworks to implement the sign language recognition functionality:
 
-- **Scikit-learn:** A robust machine learning library in Python that provides simple and efficient tools for data mining and data analysis. It was used for model training and evaluation. 📊
-  
-- **NumPy:** A fundamental package for scientific computing in Python, enabling efficient numerical operations on large, multi-dimensional arrays and matrices. It was essential for data manipulation. 🔢
+- **🔍 Scikit-learn**: A machine learning library in Python used for data analysis and model training.
+- **📊 NumPy**: A fundamental package for scientific computing with Python, used for handling arrays and matrices.
+- **🎥 OpenCV**: A library for computer vision tasks, used here for video capture and frame processing.
+- **✋ Mediapipe**: A framework used for extracting hand landmarks in sign language recognition.
+- **📦 Pickle**: A Python module used for serializing and saving the trained models and data.
+- **📈 Matplotlib**: A plotting library used for visualizing data distributions and results.
+- **🌐 Flask**: A lightweight web framework used to deploy the model as a REST API.
+- **🔗 ngrok**: A tool to expose the Flask app to the internet by creating secure tunnels, allowing mobile apps to access the API.
+- **💻 Google Colab**: A cloud-based platform used to write and run Jupyter notebooks for model development.
+- **📒 Jupyter Lab**: An interactive development environment for running Python code, managing datasets, and conducting experiments.
+- **🧪 Postman**: A tool for testing APIs, used to verify the functionality of the deployed REST APIs before integrating them into the mobile app.
 
-- **OpenCV:** An open-source computer vision and machine learning software library that provides tools for image and video processing. It was used for dataset collection and video analysis. 🎥
-
-- **MediaPipe:** A cross-platform framework for building multimodal applied machine learning pipelines. It was utilized for hand detection and landmark extraction in sign language recognition. ✋
-
-- **Pickle:** A Python module used for serializing and deserializing Python objects. It was used to save and load the trained models and extracted data efficiently. 📦
-
-- **Matplotlib:** A plotting library for the Python programming language and its numerical mathematics extension NumPy. It was used for visualizing data and results during development. 📈
-
-- **Flask:** A lightweight WSGI web application framework in Python that is easy to use for building web applications. It was employed to create the REST API for model deployment. 🌐
-
-- **Google Colab:** A cloud-based Jupyter notebook environment that allows for the execution of Python code in the browser. It was used for developing and testing the AI models collaboratively. ☁️
-
-- **Jupyter Lab:** An interactive development environment for notebooks, code, and data. It provided a versatile interface for data exploration and model development. 📓
 
 ## 🎥 Demo
 Check out the demo GIF to see the Sign Language Recognition mobile app in action! This GIF showcases the app's features, including how it converts sign language to text and vice versa.
