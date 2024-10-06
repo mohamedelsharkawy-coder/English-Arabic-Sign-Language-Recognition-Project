@@ -51,7 +51,7 @@ The Arabic sign language components are documented in the file `arabic_project.i
 1. **Dataset Collection:**
    - 🎥 Personally collected a custom dataset using my webcam via OpenCV, capturing a total of 360,000 frames. This includes 2,000 frames per class for 90 classes in both English and Arabic sign languages (2 languages × 90 classes × 2,000 frames = 360,000). 📊
 
-   👉 You can check the used sign languages here: [English Sign Language](https://drive.google.com/drive/folders/1IBbyj8CzZjeDakChW7XoDqIErlL4ycQX?usp=sharing) | [Arabic Sign Language]([link_to_arabic_sign_language](https://drive.google.com/drive/folders/1qEWWjAK1TAc4zRbwk7aMqvyu5PwZqOIr?usp=sharing)).
+   👉 You can check the used sign languages here: [English Sign Language](https://drive.google.com/drive/folders/1IBbyj8CzZjeDakChW7XoDqIErlL4ycQX?usp=sharing) | [Arabic Sign Language](https://drive.google.com/drive/folders/1qEWWjAK1TAc4zRbwk7aMqvyu5PwZqOIr?usp=sharing).
 
 
 2. **Data Cleaning:**
