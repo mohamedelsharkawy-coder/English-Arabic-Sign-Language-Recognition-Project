@@ -78,8 +78,8 @@ The Arabic sign language components are documented in the file `arabic_project.i
    - Developed a prediction mechanism to handle video input by classifying frames and determining which frames to display based on a defined threshold. 🎬
 
 8. **Test the model in real-time:**  
-   I tested my model in real-time within the notebook to evaluate its latency and accuracy.
-   ![Real-time Model Testing](real_time_test.gif)
+   - I tested my model in real-time within the notebook to evaluate its latency and accuracy.
+   ![Real-time Model Testing](media/real_time_test.gif)
 
 9. **Model Deployment:**
    - Deployed the model as a REST API using Flask, making it accessible via Ngrok for the mobile app. 🌐
